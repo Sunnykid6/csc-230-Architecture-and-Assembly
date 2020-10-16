@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\working.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\LCDdefs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\Debug\testFile2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>testFile2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>testFile2.map</FILE>
+  <FILE>testFile2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <lcd_after><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>960</LINE></lcd_after>
+  <lcd_nbl><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>318</LINE></lcd_nbl>
+  <dly_us><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>824</LINE></dly_us>
+  <lcd_byte><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>381</LINE></lcd_byte>
+  <lcd_cmd><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>428</LINE></lcd_cmd>
+  <cmd_fin><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>458</LINE></cmd_fin>
+  <dly_ms><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>854</LINE></dly_ms>
+  <lcd_putchar><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>483</LINE></lcd_putchar>
+  <cursor_col><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>975</LINE></cursor_col>
+  <lcd_puts><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>538</LINE></lcd_puts>
+  <parse><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>552</LINE></parse>
+  <donestr><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>560</LINE></donestr>
+  <lcd_gotoxy><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>589</LINE></lcd_gotoxy>
+  <check_col><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>606</LINE></check_col>
+  <gotoxy_assign><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>610</LINE></gotoxy_assign>
+  <cursor_row><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>974</LINE></cursor_row>
+  <ln2><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>628</LINE></ln2>
+  <ln1><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>634</LINE></ln1>
+  <addcol><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>637</LINE></addcol>
+  <lcd_clr><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>661</LINE></lcd_clr>
+  <lcd_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>689</LINE></lcd_init>
+  <dly_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>754</LINE></dly_init>
+  <dlyus_dreg><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>828</LINE></dlyus_dreg>
+  <dlyus_in><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>829</LINE></dlyus_in>
+  <dlyms><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>879</LINE></dlyms>
+  <str_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>906</LINE></str_init>
+  <initloop><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\lcd.asm</FILE><LINE>924</LINE></initloop>
+  <start><FILE>C:\Users\Victor Sun\Documents\CSC 230\testFile2\testFile2\working.asm</FILE><LINE>7</LINE></start>
+ </LABELS>
+</ASSEMBLER_INFO>

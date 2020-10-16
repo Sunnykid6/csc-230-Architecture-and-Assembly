@@ -1,0 +1,119 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m2560def.inc</FILE>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\LCDdefs.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\Debug\a3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>a3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>a3.map</FILE>
+  <FILE>a3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <lcd_after><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>960</LINE></lcd_after>
+  <lcd_nbl><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>318</LINE></lcd_nbl>
+  <dly_us><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>824</LINE></dly_us>
+  <lcd_byte><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>381</LINE></lcd_byte>
+  <lcd_cmd><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>428</LINE></lcd_cmd>
+  <cmd_fin><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>458</LINE></cmd_fin>
+  <dly_ms><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>854</LINE></dly_ms>
+  <lcd_putchar><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>483</LINE></lcd_putchar>
+  <cursor_col><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>975</LINE></cursor_col>
+  <lcd_puts><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>538</LINE></lcd_puts>
+  <parse><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>552</LINE></parse>
+  <donestr><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>560</LINE></donestr>
+  <lcd_gotoxy><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>589</LINE></lcd_gotoxy>
+  <check_col><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>606</LINE></check_col>
+  <gotoxy_assign><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>610</LINE></gotoxy_assign>
+  <cursor_row><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>974</LINE></cursor_row>
+  <ln2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>628</LINE></ln2>
+  <ln1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>634</LINE></ln1>
+  <addcol><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>637</LINE></addcol>
+  <lcd_clr><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>661</LINE></lcd_clr>
+  <lcd_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>689</LINE></lcd_init>
+  <dly_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>754</LINE></dly_init>
+  <dlyus_dreg><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>828</LINE></dlyus_dreg>
+  <dlyus_in><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>829</LINE></dlyus_in>
+  <dlyms><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>879</LINE></dlyms>
+  <str_init><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>906</LINE></str_init>
+  <initloop><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\lcd.asm</FILE><LINE>924</LINE></initloop>
+  <init_strings><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>41</LINE></init_strings>
+  <init_ptr1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>140</LINE></init_ptr1>
+  <init_ptr2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>152</LINE></init_ptr2>
+  <loop><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>19</LINE></loop>
+  <display_string1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>83</LINE></display_string1>
+  <display_string2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>116</LINE></display_string2>
+  <copy_message1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>164</LINE></copy_message1>
+  <copy_message2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>211</LINE></copy_message2>
+  <move_ptr1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>258</LINE></move_ptr1>
+  <move_ptr2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>290</LINE></move_ptr2>
+  <delay><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>333</LINE></delay>
+  <done><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>34</LINE></done>
+  <msg1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>565</LINE></msg1>
+  <msg1_p><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>559</LINE></msg1_p>
+  <msg2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>566</LINE></msg2>
+  <msg2_p><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>560</LINE></msg2_p>
+  <line1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>569</LINE></line1>
+  <line2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>570</LINE></line2>
+  <l1ptr><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>573</LINE></l1ptr>
+  <l2ptr><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>574</LINE></l2ptr>
+  <charCopy><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>179</LINE></charCopy>
+  <nullTermFound><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>185</LINE></nullTermFound>
+  <noNullTermFound><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>190</LINE></noNullTermFound>
+  <doneCharCopy><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>197</LINE></doneCharCopy>
+  <charCopy2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>226</LINE></charCopy2>
+  <nullTermFound2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>232</LINE></nullTermFound2>
+  <noNullTermFound2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>237</LINE></noNullTermFound2>
+  <doneCharCopy2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>244</LINE></doneCharCopy2>
+  <nullTerm><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>273</LINE></nullTerm>
+  <noNullTerm><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>277</LINE></noNullTerm>
+  <doneMove><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>282</LINE></doneMove>
+  <nullTerm2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>305</LINE></nullTerm2>
+  <noNullTerm2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>309</LINE></noNullTerm2>
+  <doneMove2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>314</LINE></doneMove2>
+  <del1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>334</LINE></del1>
+  <del2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>336</LINE></del2>
+  <del3><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>338</LINE></del3>
+  <check_button><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>483</LINE></check_button>
+  <pauseScroll><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>358</LINE></pauseScroll>
+  <splitScroll1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>377</LINE></splitScroll1>
+  <splitScroll2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>417</LINE></splitScroll2>
+  <resumeScroll><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>352</LINE></resumeScroll>
+  <pauseSplitScroll1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>367</LINE></pauseSplitScroll1>
+  <resumeSplitScroll1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>404</LINE></resumeSplitScroll1>
+  <indel1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>384</LINE></indel1>
+  <indel2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>386</LINE></indel2>
+  <indel3><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>388</LINE></indel3>
+  <resumeDoubleScroll><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>410</LINE></resumeDoubleScroll>
+  <indelay1><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>424</LINE></indelay1>
+  <indelay2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>426</LINE></indelay2>
+  <indelay3><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>428</LINE></indelay3>
+  <pauseSplitScroll2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>450</LINE></pauseSplitScroll2>
+  <resumeSplitScroll2><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>444</LINE></resumeSplitScroll2>
+  <wait><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>491</LINE></wait>
+  <checkNoPress><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>509</LINE></checkNoPress>
+  <checkUpRightPress><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>514</LINE></checkUpRightPress>
+  <checkDownPress><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>521</LINE></checkDownPress>
+  <noButton><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>526</LINE></noButton>
+  <select><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>546</LINE></select>
+  <rightButton><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>530</LINE></rightButton>
+  <upButton><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>534</LINE></upButton>
+  <leftButton><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>542</LINE></leftButton>
+  <downButton><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>538</LINE></downButton>
+  <skip><FILE>C:\Users\Victor Sun\Documents\CSC 230\a3\a3\a3LCD.asm</FILE><LINE>551</LINE></skip>
+ </LABELS>
+</ASSEMBLER_INFO>
